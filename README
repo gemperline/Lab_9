@@ -1,6 +1,6 @@
 // This is a simple program to demonstrate linked list functionality and practice pointer manipulation 
-// Functions include adding an item (node), inserting at a specific loaction in the list, removing an item, destroying
-//    the list and freeing memory.
+//
+// Functions include adding an item (node), inserting at a specific loaction in the list, removing an item, destroying the list and freeing memory.
 
 
 Adam Gemperline - CPSC 131 Lab 9
